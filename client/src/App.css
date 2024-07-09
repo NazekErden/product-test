@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+  max-width: 1024px;
+  padding: 30px 15px;
+  margin: 0 auto; 
+}
+.table th,
+table td{
+  border: 1px solid #eee;
+}
